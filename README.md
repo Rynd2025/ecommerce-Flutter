@@ -1,5 +1,7 @@
 # 🛒 ASWAN - Multi-Vendor E-commerce Application (KSA)
 
+# 🛒 ASWAN - Multi-Vendor E-commerce Application (KSA)
+
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -42,6 +44,3 @@ En tant que **Développeuse Flutter**, j'ai dirigé la création de toute la par
 
 ---
 *Développé avec rigueur par Rahma Ben Seghaier - Ingénieure diplômée de Polytechnique Sousse.*
-
----
-[cite_start]*Développé avec rigueur par Rahma Ben Seghaier - Ingénieure diplômée de Polytechnique Sousse.* [cite: 39]ppé avec ❤️ par Rahma Ben Seghaier - Ingénieure Polytechnique Sousse* [cite: 2, 39]# ecommerce-Flutter
