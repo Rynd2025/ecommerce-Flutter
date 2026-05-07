@@ -40,11 +40,10 @@ En tant que **Développeuse Flutter**, j'ai dirigé la création de toute la par
 * [cite_start]**Maintenabilité** : Application rigoureuse des principes **SOLID** et des meilleures pratiques de codage. [cite: 11, 18]
 
 ---
-
 ## 📸 Aperçu Visuel
 | Écran de Connexion | Liste des Commandes (Marchand) |
 | :---: | :---: |
-| <img src="login.PNG" width="250" /> | <img src="cc.PNG" width="250" /> |
+| <img src="login.PNG" width="250" alt="Login Screen" /> | <img src="cc.PNG" width="250" alt="Orders List" /> |
 
 ---
 [cite_start]*Développé avec rigueur par Rahma Ben Seghaier - Ingénieure diplômée de Polytechnique Sousse.* [cite: 39]ppé avec ❤️ par Rahma Ben Seghaier - Ingénieure Polytechnique Sousse* [cite: 2, 39]# ecommerce-Flutter
